@@ -2,3 +2,24 @@
 在stalloneiv/disclosure仓库中：
 增加下列语句:
  url = git@stalloneiv:stalloneiv/disclosure.git
+配置的方式如下：
+在stalloneiv/disclosure仓库中：
+增加下列语句:
+ url = git@stalloneiv:stalloneiv/disclosure.git
+
+配置的方式如下：
+在stalloneiv/disclosure仓库中：
+增加下列语句:
+ url = git@stalloneiv:stalloneiv/disclosure.git
+
+配置的方式如下：
+在stalloneiv/disclosure仓库中：
+增加下列语句:
+ url = git@stalloneiv:stalloneiv/disclosure.git
+
+配置的方式如下：
+在stalloneiv/disclosure仓库中：
+增加下列语句:
+ url = git@stalloneiv:stalloneiv/disclosure.git
+
+
